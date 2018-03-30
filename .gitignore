@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/*/
+!SearchDictionary/
+SearchDictionary/Debug/
+SearchDictionary/Release/
+
+SearchDictionary.sln
+*.aps
+SearchDictionary/SearchDictionary.aps
+*.xlsx
